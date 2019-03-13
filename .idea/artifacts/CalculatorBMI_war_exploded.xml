@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CalculatorBMI:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculatorBMI_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CalculatorBMI/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CalculatorBMI" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
